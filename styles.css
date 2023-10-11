@@ -1,0 +1,52 @@
+body {
+  background-color: #DCCCBB; 
+}
+
+h1 {
+    text-align: center; 
+    font-size: 36px; 
+}
+nav {
+    background-color: #333; /* Navbar Background Colour */
+    color: #fff; /* Navbar Text Colour */
+    text-align: center; 
+}
+
+nav ul {
+    list-style: none; /* Remove list-style */
+}
+
+nav li {
+    display: inline; /* Arrange list items horizontally */
+    margin-right: 150px; 
+}
+
+nav a {
+    text-decoration: none; /* Remove text-decoration */
+    color: #fff; /* Link text colour */
+    font-weight: bold; 
+    font-size: 20px; 
+}
+
+nav a:hover {
+    color: #ff9900; /* Link text colour (on hover) */
+}
+
+.HeadStyle1{
+    margin-left: 30px; 
+}
+
+.ParagraphStyle1 {
+    margin-left: 60px; 
+    margin-right: 60px; 
+}
+
+.ImageStyle1 {
+    display: flex;
+    justify-content: center; 
+}
+
+.ImageStyle1 img {
+    margin: 0 30px; 
+}
+
